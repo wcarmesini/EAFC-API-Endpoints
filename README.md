@@ -1,54 +1,54 @@
 # EAFC API Hub
 
-📡 Repositório colaborativo de endpoints da API do EAFC (EA Sports FC)
+📡 Collaborative repository of EAFC (EA Sports FC) API endpoints
 
 ---
 
-## Sobre
+## About
 
-Este repositório foi criado de forma **colaborativa** para centralizar e documentar os endpoints da API do EAFC (EA Sports FC). Apesar de anos de pedidos da comunidade, a EA Sports ainda **não disponibilizou uma API pública**, então este projeto busca preencher essa lacuna.  
+This repository was created in a **collaborative** way to centralize and document the EAFC (EA Sports FC) API endpoints. Despite years of requests from the community, EA Sports still **has not released a public API**, so this project aims to fill that gap.  
 
-O foco principal do projeto é **documentar e organizar os endpoints de todos os modos de jogo**, permitindo que desenvolvedores e entusiastas estudem a comunicação do jogo, criem ferramentas de análise ou simplesmente aprendam sobre chamadas de API em jogos online.
-
----
-
-## Demanda principal do autor
-
-Embora o objetivo do repositório seja documentar os endpoints de forma geral, a **demanda principal do autor** é descobrir uma forma de obter **estatísticas de partidas de amistoso online**, que atualmente não são disponibilizadas oficialmente pela EA Sports.
+The main focus of the project is to **document and organize endpoints across all game modes**, allowing developers and enthusiasts to study the game's communication, create analysis tools, or simply learn about API calls in online games.
 
 ---
 
-## Estrutura do repositório
+## Author's main goal
 
-- `endpoints/` → diretório onde cada arquivo ou subpasta documenta endpoints específicos.
-- `contribuicoes.md` → guia para quem deseja contribuir.
-- `README.md` → documentação principal (você está aqui).
+While the repository's main objective is to document endpoints in general, the **author's main goal** is to discover a way to obtain **statistics from online friendly matches**, which are currently not officially available from EA Sports.
 
 ---
 
-## Como contribuir
+## Repository structure
 
-1. Descubra ou teste novos endpoints.
-2. Crie um arquivo Markdown em `endpoints/` com:
-   - Nome do endpoint
-   - URL ou padrão de URL
-   - Método HTTP (GET, POST, etc.)
-   - Parâmetros (se conhecidos)
-   - Exemplo de resposta (não incluindo dados privados)
-   - Observações
-3. Abra um Pull Request com suas contribuições.
-4. Discussões podem ser feitas nas **Issues**.
+- `endpoints/` → directory where each file or subfolder documents specific endpoints.
+- `contributions.md` → guide for those who want to contribute.
+- `README.md` → main documentation (you're here).
 
 ---
 
-## Regras importantes
+## How to contribute
 
-- **Não publique credenciais ou dados privados de jogadores.**
-- Mantenha a documentação organizada e clara.
-- Contribua com foco em **aprendizado e colaboração**.
+1. Discover or test new endpoints.
+2. Create a Markdown file in `endpoints/` with:
+   - Endpoint name
+   - URL or URL pattern
+   - HTTP method (GET, POST, etc.)
+   - Parameters (if known)
+   - Example response (without including private data)
+   - Notes
+3. Open a Pull Request with your contributions.
+4. Discussions can be made in **Issues**.
 
 ---
 
-## Contato
+## Important rules
 
-Para dúvidas ou sugestões, abra uma **Issue** ou deixe um comentário em um Pull Request.
+- **Do not publish credentials or private player data.**
+- Keep documentation organized and clear.
+- Contribute with a focus on **learning and collaboration**.
+
+---
+
+## Contact
+
+For questions or suggestions, open an **Issue** or leave a comment on a Pull Request.
