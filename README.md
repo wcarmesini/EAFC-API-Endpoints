@@ -2,6 +2,7 @@
 
 📡 Collaborative repository of EAFC (EA Sports FC) API endpoints
 
+> 🇧🇷 Leia também a versão em [Português](README.br.md)
 ---
 
 ## About
