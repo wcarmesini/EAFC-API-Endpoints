@@ -4,7 +4,7 @@
 
 <br>
 
-> 🇧🇷 Leia também a versão em [Português BR](README.pt.md)
+> 🇧🇷 Leia também a versão em [Português BR](README.br.md)
 
 ---
 
