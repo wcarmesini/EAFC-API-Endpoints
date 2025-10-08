@@ -15,7 +15,7 @@
 - [🤝 How to Contribute](#-how-to-contribute)
 - [⚠️ Important Rules](#️-important-rules)
 - [📬 Contact](#-contact)
-- [👤 About the Author](#-author)
+- [👤 Author](#-author)
 
 ---
 
