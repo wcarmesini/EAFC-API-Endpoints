@@ -4,26 +4,37 @@
 
 <br>
 
-> 🇧🇷 Leia também a versão em [Português BR](README.br.md)
+> :brazil: Leia também a versão em [Português BR](README.br.md)
 
 ---
 
+## 🧭 Table of Contents
+- [📘 About](#-about)
+- [🎯 Author's Main Goal](#-authors-main-goal)
+- [🗂️ Repository Structure](#️-repository-structure)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [⚠️ Important Rules](#️-important-rules)
+- [📬 Contact](#-contact)
+- [👤 About the Author](#-author)
 
-## About
+---
 
-This repository was created in a **collaborative** way to centralize and document the EAFC (EA Sports FC) API endpoints. Despite years of requests from the community, EA Sports still **has not released a public API**, so this project aims to fill that gap.  
+## 📘 About
+
+This repository was created in a **collaborative** way to centralize and document the EAFC (EA Sports FC) API endpoints.  
+Despite years of requests from the community, EA Sports still **has not released a public API**, so this project aims to fill that gap.  
 
 The main focus of the project is to **document and organize endpoints across all game modes**, allowing developers and enthusiasts to study the game's communication, create analysis tools, or simply learn about API calls in online games.
 
 ---
 
-## Author's main goal
+## 🎯 Author's Main Goal
 
 While the repository's main objective is to document endpoints in general, the **author's main goal** is to discover a way to obtain **statistics from online friendly matches**, which are currently not officially available from EA Sports.
 
 ---
 
-## Repository structure
+## 🗂️ Repository Structure
 
 - `endpoints/` → directory where each file or subfolder documents specific endpoints.
 - `contributions.md` → guide for those who want to contribute.
@@ -31,7 +42,7 @@ While the repository's main objective is to document endpoints in general, the *
 
 ---
 
-## How to contribute
+## 🤝 How to Contribute
 
 1. Discover or test new endpoints.
 2. Create a Markdown file in `endpoints/` with:
@@ -46,7 +57,7 @@ While the repository's main objective is to document endpoints in general, the *
 
 ---
 
-## Important rules
+## ⚠️ Important Rules
 
 - **Do not publish credentials or private player data.**
 - Keep documentation organized and clear.
@@ -54,6 +65,19 @@ While the repository's main objective is to document endpoints in general, the *
 
 ---
 
-## Contact
+## 📬 Contact
 
 For questions or suggestions, open an **Issue** or leave a comment on a Pull Request.
+
+---
+
+## 👤 Author
+
+Project created by [**Wilson Valentim Carmesini**](https://github.com/wcarmesini)  
+
+If you'd like to collaborate, share discoveries, or exchange ideas,  
+feel free to reach out via **GitHub Issues** or contribute directly through **Pull Requests**.
+
+---
+
+⭐ **If you find this project useful, consider giving it a star!**
