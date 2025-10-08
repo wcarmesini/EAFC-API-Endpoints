@@ -4,7 +4,7 @@
 
 <br>
 
-> &#x1F1E7;&#x1F1F7; Leia também a versão em [Portuguese](README.pt.md)
+> 🇧🇷 Leia também a versão em [Português BR](README.pt.md)
 
 ---
 
