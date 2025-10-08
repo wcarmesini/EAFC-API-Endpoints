@@ -1,9 +1,13 @@
 # EAFC API Hub
 
-📡 Collaborative repository of EAFC (EA Sports FC) API endpoints
+📡 Collaborative repository of EAFC (EA Sports FC) API endpoints  
 
-> 🇧🇷 Leia também a versão em [Português](README.br.md)
+<br>
+
+> &#x1F1E7;&#x1F1F7; Leia também a versão em [Portuguese](README.pt.md)
+
 ---
+
 
 ## About
 
